@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.ipynb_checkpoints/
+
+.venv/
+.env
+
+.vscode/
+
+# --------------------
+# Model artifacts
+# --------------------
+*.pkl
+*.joblib
+
+# --------------------
+# OS-specific clutter
+# --------------------
+.DS_Store
+Thumbs.db
